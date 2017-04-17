@@ -1,7 +1,7 @@
 # test coverage for  [rewire (v2.5.2)](https://github.com/jhnns/rewire)  [![npm package](https://img.shields.io/npm/v/npmtest-rewire.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rewire) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rewire.svg)](https://travis-ci.org/npmtest/node-npmtest-rewire)
 #### Easy dependency injection for node.js unit testing
 
-[![NPM](https://nodei.co/npm/rewire.png?downloads=true)](https://www.npmjs.com/package/rewire)
+[![NPM](https://nodei.co/npm/rewire.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rewire)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-rewire/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-rewire/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-rewire/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-rewire/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-rewire/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-rewire/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-rewire/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-rewire/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-rewire/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-rewire/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-rewire%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-rewire/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-rewire/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-rewire/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-rewire/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-rewire%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-rewire/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-rewire/build/test-report.html](https://npmtest.github.io/node-npmtest-rewire/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-rewire/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-rewire/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-rewire/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-rewire/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-rewire/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-rewire/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-rewire/build/screenCapture.npmPackageListing.svg)
 
@@ -27,12 +33,10 @@
 
 {
     "author": {
-        "name": "Johannes Ewald",
-        "email": "mail@johannesewald.de"
+        "name": "Johannes Ewald"
     },
     "bugs": {
-        "url": "https://github.com/jhnns/rewire/issues",
-        "email": "mail@johannesewald.de"
+        "url": "https://github.com/jhnns/rewire/issues"
     },
     "dependencies": {},
     "description": "Easy dependency injection for node.js unit testing",
@@ -65,17 +69,14 @@
     "main": "lib/index.js",
     "maintainers": [
         {
-            "name": "jhnns",
-            "email": "mail@johannesewald.de"
+            "name": "jhnns"
         },
         {
-            "name": "peerigon",
-            "email": "developers@peerigon.com"
+            "name": "peerigon"
         }
     ],
     "name": "rewire",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/jhnns/rewire.git"
