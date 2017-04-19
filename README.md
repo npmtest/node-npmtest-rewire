@@ -1,4 +1,7 @@
-# test coverage for  [rewire (v2.5.2)](https://github.com/jhnns/rewire)  [![npm package](https://img.shields.io/npm/v/npmtest-rewire.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rewire) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rewire.svg)](https://travis-ci.org/npmtest/node-npmtest-rewire)
+# npmtest-rewire
+
+#### basic test coverage for  [rewire (v2.5.2)](https://github.com/jhnns/rewire)  [![npm package](https://img.shields.io/npm/v/npmtest-rewire.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rewire) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rewire.svg)](https://travis-ci.org/npmtest/node-npmtest-rewire)
+
 #### Easy dependency injection for node.js unit testing
 
 [![NPM](https://nodei.co/npm/rewire.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rewire)
